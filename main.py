@@ -33,6 +33,8 @@ def main():
                  Student("Ivana", "Ivic", "4234"),
                  Student("Marina", "Marijanovic", "5234"),
                  Student("Mario", "Maric", "6234"),
+                 Student("Marko", "Markic", "2324"),
+                 Student("Ante", "Antic", "9999"),
                  Student("Ana", "Anicic", "7334") ]
     courses = [ Course ("Programsko inzenjerstvo", "S303"),
                 Course ("Matematika 1", "S101") ]
