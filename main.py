@@ -30,9 +30,9 @@ def main():
     students = [ Student("Mario", "Maric", "1234"),
                  Student("Ivan", "Ivic", "2234"),
                  Student("Pero", "Peric", "3234"),
-                 Student("Ivan", "Ivic", "4234"),
-                 Student("Ivan", "Ivic", "5234"),
-                 Student("Ivan", "Ivic", "6234"),
+                 Student("Ivana", "Ivic", "4234"),
+                 Student("Marina", "Marijanovic", "5234"),
+                 Student("Mario", "Maric", "6234"),
                  Student("Ana", "Anicic", "7334") ]
     courses = [ Course ("Programsko inzenjerstvo", "S303"),
                 Course ("Matematika 1", "S101") ]
