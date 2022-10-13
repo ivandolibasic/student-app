@@ -28,7 +28,7 @@ class Student:
 
 def main():
     students = [ Student("Mario", "Maric", "1234"),
-                 Student("Ivan", "Ivic", "2234"),
+                 Student("Ivana", "Ivica", "2234"),
                  Student("Pero", "Peric", "3234"),
                  Student("Ivana", "Ivic", "4234"),
                  Student("Marina", "Marijanovic", "5234"),
